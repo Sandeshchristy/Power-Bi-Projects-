@@ -1,0 +1,11 @@
+This File contains the Raw data on population all around the world and
+country_codes_region file 
+PowerBI dasboard (pbix) file
+Population Analysis:
+Population analysis refers to the process of examining and understanding demographic data related to a specific group of people or entities. 
+This analysis can be used for various purposes, including urban planning, marketing, public policy, healthcare resource allocation, and more. 
+The goal is to extract meaningful insights and patterns from the available data.
+
+Star Schema:
+In the context of a database, a star schema is a data modeling technique used to organize and structure data for efficient querying and analysis.
+It is typically applied in data warehousing and business intelligence scenarios, and it consists of two main components:
